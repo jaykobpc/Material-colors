@@ -1,2 +1,2 @@
-# Scss-Sass-material-colors
+# Material-colors
 just simplified css for scss/sass
